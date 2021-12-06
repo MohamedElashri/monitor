@@ -40,19 +40,19 @@
     "url": "https://melashri.net",
     "icon": "https://favicons.githubusercontent.com/melashri.net",
     "slug": "mohamed-elashri",
-    "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "status": "up",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2021-12-06": 5
+      "2021-12-06": 15
     }
   },
   {
