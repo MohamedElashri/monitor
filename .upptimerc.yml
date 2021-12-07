@@ -17,6 +17,8 @@ sites:
     url: https://adguard.elashri.xyz
   - name: SearX Search
     url: https://searx.elashri.xyz
+  - name: Nextcloud
+    url: https://nextcloud.elashri.xyz
 
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
