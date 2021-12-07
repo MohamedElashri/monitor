@@ -19,7 +19,8 @@ sites:
     url: https://searx.elashri.xyz
   - name: Nextcloud
     url: https://nextcloud.elashri.xyz
-
+  - name: My blog
+    url: https://blog.elashri.xyz
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
