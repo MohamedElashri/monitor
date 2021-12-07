@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Fermilab",
+    "url": "https://www.fnal.gov",
+    "icon": "https://favicons.githubusercontent.com/www.fnal.gov",
+    "slug": "fermilab",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 219,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 194,
+    "timeDay": 194,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 207,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 264,
+    "timeDay": 301,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.02%",
-    "time": 531,
-    "timeDay": 797,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "time": 637,
+    "timeDay": 919,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2021-12-06": 15
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 669,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 674,
+    "timeDay": 659,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 890,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   }
 ]
