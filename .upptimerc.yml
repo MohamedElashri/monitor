@@ -10,7 +10,10 @@ sites:
   - name: Mohamed Elashri
     url: https://melashri.net
   - name: Snibox
-    url: https://snip.elashri.xyz/
+    url: https://snip.elashri.xyz
+  - name: UC
+    url: https://uc.edu
+
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
