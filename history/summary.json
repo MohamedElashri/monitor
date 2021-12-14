@@ -60,19 +60,19 @@
     "url": "https://snip.elashri.xyz",
     "icon": "https://favicons.githubusercontent.com/snip.elashri.xyz",
     "slug": "snibox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 723,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 734,
     "timeDay": 917,
-    "timeWeek": 727,
-    "timeMonth": 723,
-    "timeYear": 723,
+    "timeWeek": 740,
+    "timeMonth": 734,
+    "timeYear": 734,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 18
     }
   },
   {
