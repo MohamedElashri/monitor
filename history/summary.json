@@ -80,19 +80,19 @@
     "url": "https://uc.edu",
     "icon": "https://favicons.githubusercontent.com/uc.edu",
     "slug": "uc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 1389,
-    "timeWeek": 824,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 867,
+    "timeDay": 1208,
+    "timeWeek": 849,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2021-12-17": 0
+      "2021-12-17": 80
     }
   },
   {
