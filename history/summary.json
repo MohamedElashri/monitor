@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/melashri.net",
     "slug": "mohamed-elashri",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 766,
     "timeDay": 630,
     "timeWeek": 792,
@@ -80,9 +80,9 @@
     "url": "https://uc.edu",
     "icon": "https://favicons.githubusercontent.com/uc.edu",
     "slug": "uc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 824,
     "timeMonth": 856,
     "timeYear": 856,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-17": 0
+    }
   },
   {
     "name": "Adguard Home",
@@ -124,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 552,
     "timeDay": 395,
-    "timeWeek": 497,
+    "timeWeek": 494,
     "timeMonth": 552,
     "timeYear": 552,
     "dailyMinutesDown": {}
@@ -142,7 +144,7 @@
     "uptimeYear": "100.00%",
     "time": 981,
     "timeDay": 901,
-    "timeWeek": 995,
+    "timeWeek": 1004,
     "timeMonth": 981,
     "timeYear": 981,
     "dailyMinutesDown": {}
