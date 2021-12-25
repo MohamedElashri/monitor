@@ -81,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/uc.edu",
     "slug": "uc",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 867,
     "timeDay": 874,
     "timeWeek": 865,
@@ -100,9 +100,9 @@
     "url": "https://adguard.elashri.xyz",
     "icon": "https://favicons.githubusercontent.com/adguard.elashri.xyz",
     "slug": "adguard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 239,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-25": 0
+    }
   },
   {
     "name": "SearX Search",
