@@ -100,19 +100,19 @@
     "url": "https://adguard.elashri.xyz",
     "icon": "https://favicons.githubusercontent.com/adguard.elashri.xyz",
     "slug": "adguard-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 198,
-    "timeWeek": 239,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "84.12%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 507,
+    "timeDay": 202,
+    "timeWeek": 235,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2021-12-25": 0
+      "2021-12-25": 229
     }
   },
   {
