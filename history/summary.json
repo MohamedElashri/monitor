@@ -4,19 +4,19 @@
     "url": "https://www.fnal.gov",
     "icon": "https://favicons.githubusercontent.com/www.fnal.gov",
     "slug": "fermilab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 398,
-    "timeWeek": 396,
-    "timeMonth": 401,
-    "timeYear": 407,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 408,
+    "timeDay": 417,
+    "timeWeek": 402,
+    "timeMonth": 403,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-15": 24
     }
   },
   {
