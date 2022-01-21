@@ -83,11 +83,11 @@
     "icon": "https://favicons.githubusercontent.com/uc.edu",
     "slug": "uc",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 796,
     "timeDay": 482,
     "timeWeek": 569,
@@ -159,17 +159,19 @@
     "url": "https://blog.elashri.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.elashri.xyz",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 537,
-    "timeWeek": 582,
-    "timeMonth": 729,
-    "timeYear": 730,
-    "dailyMinutesDown": {}
+    "time": 723,
+    "timeDay": 513,
+    "timeWeek": 570,
+    "timeMonth": 722,
+    "timeYear": 723,
+    "dailyMinutesDown": {
+      "2022-01-21": 0
+    }
   }
 ]
