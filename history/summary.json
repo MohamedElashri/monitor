@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 389,
-    "timeDay": 137,
-    "timeWeek": 303,
-    "timeMonth": 383,
-    "timeYear": 389,
+    "time": 392,
+    "timeDay": 558,
+    "timeWeek": 311,
+    "timeMonth": 395,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-01-15": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 286,
-    "timeWeek": 284,
-    "timeMonth": 241,
-    "timeYear": 245,
+    "time": 243,
+    "timeDay": 100,
+    "timeWeek": 255,
+    "timeMonth": 235,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 723,
-    "timeDay": 480,
-    "timeWeek": 648,
-    "timeMonth": 708,
-    "timeYear": 723,
+    "time": 722,
+    "timeDay": 693,
+    "timeWeek": 641,
+    "timeMonth": 681,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2021-12-06": 15
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 807,
-    "timeDay": 685,
-    "timeWeek": 693,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 806,
+    "timeDay": 781,
+    "timeWeek": 708,
+    "timeMonth": 774,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2021-12-14": 18
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 796,
-    "timeDay": 482,
-    "timeWeek": 569,
-    "timeMonth": 772,
-    "timeYear": 796,
+    "time": 808,
+    "timeDay": 1410,
+    "timeWeek": 707,
+    "timeMonth": 798,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2021-12-17": 80
     }
@@ -103,15 +103,15 @@
     "icon": "https://favicons.githubusercontent.com/adguard.elashri.xyz",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 331,
-    "timeDay": 194,
-    "timeWeek": 190,
-    "timeMonth": 208,
+    "timeDay": 319,
+    "timeWeek": 208,
+    "timeMonth": 211,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2021-12-31": 19,
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 501,
-    "timeWeek": 545,
-    "timeMonth": 668,
-    "timeYear": 614,
+    "time": 613,
+    "timeDay": 564,
+    "timeWeek": 548,
+    "timeMonth": 655,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -147,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1128,
-    "timeDay": 954,
-    "timeWeek": 1021,
-    "timeMonth": 1221,
-    "timeYear": 1128,
+    "time": 1125,
+    "timeDay": 986,
+    "timeWeek": 1008,
+    "timeMonth": 1164,
+    "timeYear": 1125,
     "dailyMinutesDown": {}
   },
   {
@@ -165,11 +165,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 722,
-    "timeDay": 564,
-    "timeWeek": 581,
-    "timeMonth": 720,
-    "timeYear": 722,
+    "time": 721,
+    "timeDay": 611,
+    "timeWeek": 585,
+    "timeMonth": 688,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2022-01-21": 21
     }
