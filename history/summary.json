@@ -4,18 +4,20 @@
     "url": "https://home.cern",
     "icon": "https://favicons.githubusercontent.com/home.cern",
     "slug": "cern",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2679,
     "timeDay": 2839,
-    "timeWeek": 2679,
+    "timeWeek": 2718,
     "timeMonth": 2679,
     "timeYear": 2679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "LHCb",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 1055,
     "timeDay": 1054,
-    "timeWeek": 1055,
+    "timeWeek": 1038,
     "timeMonth": 1055,
     "timeYear": 1055,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "99.98%",
     "time": 424,
     "timeDay": 157,
-    "timeWeek": 406,
+    "timeWeek": 386,
     "timeMonth": 488,
     "timeYear": 424,
     "dailyMinutesDown": {
@@ -68,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 228,
     "timeDay": 265,
-    "timeWeek": 219,
+    "timeWeek": 220,
     "timeMonth": 200,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -80,13 +82,13 @@
     "slug": "mohamed-elashri",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "87.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.85%",
     "time": 726,
-    "timeDay": 463,
-    "timeWeek": 664,
+    "timeDay": 554,
+    "timeWeek": 656,
     "timeMonth": 731,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -107,7 +109,7 @@
     "uptimeYear": "99.99%",
     "time": 817,
     "timeDay": 680,
-    "timeWeek": 875,
+    "timeWeek": 870,
     "timeMonth": 863,
     "timeYear": 817,
     "dailyMinutesDown": {
@@ -127,7 +129,7 @@
     "uptimeYear": "99.94%",
     "time": 848,
     "timeDay": 478,
-    "timeWeek": 825,
+    "timeWeek": 817,
     "timeMonth": 916,
     "timeYear": 848,
     "dailyMinutesDown": {
@@ -140,14 +142,14 @@
     "icon": "https://favicons.githubusercontent.com/adguard.elashri.xyz",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "97.92%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "75.80%",
     "uptimeMonth": "94.43%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.94%",
     "time": 278,
     "timeDay": 217,
-    "timeWeek": 229,
+    "timeWeek": 228,
     "timeMonth": 226,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -171,7 +173,7 @@
     "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 545,
-    "timeWeek": 646,
+    "timeWeek": 644,
     "timeMonth": 633,
     "timeYear": 604,
     "dailyMinutesDown": {}
@@ -189,7 +191,7 @@
     "uptimeYear": "100.00%",
     "time": 1170,
     "timeDay": 1115,
-    "timeWeek": 1299,
+    "timeWeek": 1312,
     "timeMonth": 1297,
     "timeYear": 1170,
     "dailyMinutesDown": {}
@@ -207,7 +209,7 @@
     "uptimeYear": "99.98%",
     "time": 725,
     "timeDay": 730,
-    "timeWeek": 785,
+    "timeWeek": 789,
     "timeMonth": 791,
     "timeYear": 725,
     "dailyMinutesDown": {
