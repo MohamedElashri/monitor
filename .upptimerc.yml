@@ -4,7 +4,7 @@ repo: monitor # The name of this repository
 
 sites:
   - name: ME Wiki
-    url: https://wiki.melashri.xyz
+    url: https://wiki.melashri.me
   - name: CERN
     url: https://home.cern
   - name: LHCb
@@ -22,11 +22,13 @@ sites:
   - name: Adguard Home
     url: https://adguard.elashri.xyz
   - name: SearX Search
-    url: https://searx.elashri.xyz
+    url: https://searx.melashri.me
   - name: Nextcloud
     url: https://nextcloud.elashri.xyz
   - name: My blog
     url: https://blog.elashri.xyz
+  - name: changelog
+    url: https://change.melashri.me
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
