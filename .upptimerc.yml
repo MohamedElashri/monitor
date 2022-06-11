@@ -29,8 +29,8 @@ sites:
     url: https://blog.elashri.xyz
   - name: changelog
     url: https://change.melashri.me
-  - name: overleaf
-    url: tex.elashri.xyz
+  - name: Archive
+    url: https://archive.elashri.xyz/
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
