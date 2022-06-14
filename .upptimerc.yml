@@ -31,6 +31,8 @@ sites:
     url: https://change.melashri.me
   - name: Archive
     url: https://archive.elashri.xyz/
+  - name: SearxNG
+    url: https://searx.elashri.xyz
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
