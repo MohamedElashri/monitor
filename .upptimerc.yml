@@ -25,7 +25,7 @@ sites:
     url: https://nextcloud.elashri.xyz
   - name: My blog
     url: https://blog.elashri.xyz
-  - name: changelog
+  - name: change-log
     url: https://change.melashri.me
   - name: Archive
     url: https://archive.elashri.xyz/
