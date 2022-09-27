@@ -360,7 +360,7 @@
     "status": "down",
     "uptime": "95.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.36%",
+    "uptimeWeek": "53.35%",
     "uptimeMonth": "85.66%",
     "uptimeYear": "95.23%",
     "time": 1360,
@@ -369,7 +369,7 @@
     "timeMonth": 1180,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2022-09-27": 1036,
+      "2022-09-27": 1037,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 785,
