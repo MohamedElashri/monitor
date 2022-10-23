@@ -28,7 +28,7 @@ sites:
   - name: change-log
     url: https://change.melashri.me
   - name: Archive
-    url: https://archive.melashri.ynh.fr
+    url: https://archive.melashri.eu.org
   - name: SearxNG
     url: https://searx.elashri.xyz
 assignees: # Users to assign downtime issues (optional)
