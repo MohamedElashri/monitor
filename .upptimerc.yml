@@ -26,7 +26,7 @@ sites:
   - name: My blog
     url: https://blog.melashri.net
   - name: change-log
-    url: https://change.melashri.me
+    url: https://change.elashri.xyz
   - name: Archive
     url: https://archive.melashri.eu.org
   - name: SearxNG
