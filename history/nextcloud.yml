@@ -1,7 +1,7 @@
 url: https://nextcloud.elashri.xyz
-status: up
-code: 200
-responseTime: 890
-lastUpdated: 2023-01-08T23:01:57.513Z
+status: down
+code: 502
+responseTime: 380
+lastUpdated: 2023-01-09T20:38:50.789Z
 startTime: Tue Dec 07 2021 23:34:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
