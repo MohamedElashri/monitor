@@ -30,7 +30,7 @@ sites:
   - name: Archive
     url: https://archive.melashri.eu.org
   - name: SearxNG
-    url: https://searx.elashri.xyz
+    url: https://searx.melashri.me
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
