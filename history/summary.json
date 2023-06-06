@@ -63,17 +63,16 @@
     "slug": "lh-cb",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1271,
     "timeDay": 1192,
     "timeWeek": 1034,
     "timeMonth": 1031,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2023-06-05": 9,
       "2023-01-25": 23
     }
   },
@@ -280,8 +279,7 @@
       "2022-06-18": 140,
       "2022-06-17": 17,
       "2022-06-08": 1214,
-      "2022-06-07": 1440,
-      "2022-06-06": 1440
+      "2022-06-07": 1440
     }
   },
   {
@@ -313,11 +311,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.melashri.eu.org.ico",
     "slug": "archive",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "93.41%",
+    "uptimeYear": "93.42%",
     "time": 926,
     "timeDay": 392,
     "timeWeek": 521,
@@ -371,7 +369,7 @@
     "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.19%",
+    "uptimeMonth": "89.30%",
     "uptimeYear": "96.07%",
     "time": 781,
     "timeDay": 362,
