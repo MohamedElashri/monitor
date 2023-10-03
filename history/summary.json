@@ -278,7 +278,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.37%",
+    "uptimeYear": "96.38%",
     "time": 819,
     "timeDay": 576,
     "timeWeek": 543,
@@ -301,8 +301,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -312,9 +311,9 @@
     "slug": "searx-ng",
     "status": "up",
     "uptime": "96.87%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "96.04%",
     "time": 845,
     "timeDay": 1032,
@@ -322,7 +321,6 @@
     "timeMonth": 1168,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-10-02": 9,
       "2023-09-30": 22,
       "2023-09-27": 20,
       "2023-09-17": 16,
