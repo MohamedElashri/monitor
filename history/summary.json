@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "97.27%",
+    "uptime": "98.42%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.50%",
     "time": 230,
-    "timeDay": 727,
+    "timeDay": 468,
     "timeWeek": 934,
     "timeMonth": 628,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-10-12": 75,
+      "2023-10-12": 66,
       "2023-10-11": 73,
       "2023-10-10": 18,
       "2023-10-09": 18,
@@ -279,7 +279,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 795,
     "timeDay": 770,
     "timeWeek": 484,
@@ -292,8 +292,7 @@
       "2022-10-23": 174,
       "2022-10-22": 9,
       "2022-10-15": 1093,
-      "2022-10-14": 1440,
-      "2022-10-13": 1440
+      "2022-10-14": 1440
     }
   },
   {
