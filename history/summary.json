@@ -14,7 +14,7 @@
     "timeDay": 470,
     "timeWeek": 793,
     "timeMonth": 1082,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2023-09-07": 118,
       "2023-09-06": 367,
@@ -45,7 +45,7 @@
     "timeDay": 1104,
     "timeWeek": 1344,
     "timeMonth": 1331,
-    "timeYear": 1409,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2023-01-25": 31,
       "2022-12-20": 51
@@ -66,7 +66,7 @@
     "timeDay": 840,
     "timeWeek": 1095,
     "timeMonth": 1080,
-    "timeYear": 1135,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -86,7 +86,7 @@
     "timeDay": 211,
     "timeWeek": 348,
     "timeMonth": 378,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-09-19": 446,
       "2023-01-25": 35,
@@ -134,7 +134,7 @@
     "timeDay": 74,
     "timeWeek": 140,
     "timeMonth": 132,
-    "timeYear": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2023-03-19": 1224,
       "2023-03-18": 1440,
@@ -159,7 +159,7 @@
     "timeDay": 673,
     "timeWeek": 980,
     "timeMonth": 916,
-    "timeYear": 1235,
+    "timeYear": 1237,
     "dailyMinutesDown": {
       "2023-09-08": 418,
       "2023-07-27": 17,
@@ -174,19 +174,19 @@
     "url": "https://adguard.elashri.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "96.84%",
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.46%",
-    "time": 265,
-    "timeDay": 731,
-    "timeWeek": 884,
-    "timeMonth": 739,
-    "timeYear": 272,
+    "time": 270,
+    "timeDay": 1071,
+    "timeWeek": 931,
+    "timeMonth": 771,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-10-16": 0,
+      "2023-10-16": 11,
       "2023-10-14": 107,
       "2023-10-13": 87,
       "2023-10-12": 66,
@@ -216,7 +216,7 @@
     "timeDay": 745,
     "timeWeek": 816,
     "timeMonth": 860,
-    "timeYear": 1308,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2023-10-15": 516,
       "2023-09-08": 418,
@@ -264,7 +264,7 @@
     "timeDay": 535,
     "timeWeek": 606,
     "timeMonth": 608,
-    "timeYear": 699,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2023-09-08": 418,
       "2023-06-15": 21,
@@ -288,7 +288,7 @@
     "timeDay": 295,
     "timeWeek": 492,
     "timeMonth": 533,
-    "timeYear": 618,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-06-03": 428,
       "2023-06-02": 5,
@@ -312,7 +312,7 @@
     "timeDay": 192,
     "timeWeek": 636,
     "timeMonth": 768,
-    "timeYear": 901,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2023-10-03": 21,
       "2023-09-30": 22,
