@@ -174,9 +174,9 @@
     "slug": "adguard-home",
     "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "96.01%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "96.35%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "99.39%",
     "time": 370,
     "timeDay": 967,
@@ -184,7 +184,8 @@
     "timeMonth": 1039,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-10-22": 80,
+      "2023-10-23": 1,
+      "2023-10-22": 84,
       "2023-10-21": 57,
       "2023-10-20": 60,
       "2023-10-19": 91,
@@ -289,7 +290,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 784,
     "timeDay": 528,
     "timeWeek": 508,
@@ -298,8 +299,7 @@
     "dailyMinutesDown": {
       "2023-06-03": 428,
       "2023-06-02": 5,
-      "2022-11-10": 48,
-      "2022-10-23": 174
+      "2022-11-10": 48
     }
   },
   {
