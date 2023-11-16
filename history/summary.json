@@ -75,18 +75,19 @@
     "url": "https://www.fnal.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.fnal.gov.ico",
     "slug": "fermilab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 444,
+    "time": 445,
     "timeDay": 117,
     "timeWeek": 265,
     "timeMonth": 361,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-09-19": 446,
       "2023-01-25": 35
     }
