@@ -1,7 +1,7 @@
 url: https://searx.melashri.me
-status: up
-code: 200
-responseTime: 381
-lastUpdated: 2023-11-22T02:54:26.399Z
+status: down
+code: 500
+responseTime: 1268
+lastUpdated: 2023-11-22T19:44:44.017Z
 startTime: 2022-06-14T23:59:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
