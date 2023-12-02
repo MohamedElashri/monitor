@@ -4,19 +4,19 @@
     "url": "https://wiki.melashri.me",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.melashri.me.ico",
     "slug": "me-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.69%",
-    "time": 1224,
-    "timeDay": 516,
-    "timeWeek": 902,
-    "timeMonth": 1202,
-    "timeYear": 1129,
+    "time": 1227,
+    "timeDay": 1541,
+    "timeWeek": 1110,
+    "timeMonth": 1246,
+    "timeYear": 1135,
     "dailyMinutesDown": {
-      "2023-12-02": 0,
+      "2023-12-02": 12,
       "2023-09-07": 118,
       "2023-09-06": 367,
       "2023-08-16": 254,
@@ -65,7 +65,7 @@
     "timeDay": 1240,
     "timeWeek": 1125,
     "timeMonth": 1086,
-    "timeYear": 1086,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2023-01-25": 23
     }
@@ -85,7 +85,7 @@
     "timeDay": 597,
     "timeWeek": 302,
     "timeMonth": 300,
-    "timeYear": 458,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2023-09-19": 446,
       "2023-01-25": 35
@@ -153,7 +153,7 @@
     "timeDay": 723,
     "timeWeek": 690,
     "timeMonth": 688,
-    "timeYear": 1188,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2023-09-08": 418,
       "2023-07-27": 17,
@@ -169,7 +169,7 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.08%",
+    "uptimeWeek": "87.19%",
     "uptimeMonth": "94.32%",
     "uptimeYear": "97.98%",
     "time": 373,
@@ -219,7 +219,7 @@
     "timeDay": 922,
     "timeWeek": 780,
     "timeMonth": 774,
-    "timeYear": 1219,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2023-10-22": 1002,
       "2023-10-18": 415,
@@ -248,7 +248,7 @@
     "timeDay": 197,
     "timeWeek": 147,
     "timeMonth": 128,
-    "timeYear": 140,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2023-03-16": 16
     }
@@ -268,7 +268,7 @@
     "timeDay": 678,
     "timeWeek": 543,
     "timeMonth": 551,
-    "timeYear": 740,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2023-09-08": 418,
       "2023-06-15": 21,
