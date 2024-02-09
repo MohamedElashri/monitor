@@ -50,19 +50,19 @@
     "url": "https://lhcb.web.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lhcb.web.cern.ch.ico",
     "slug": "lh-cb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1124,
-    "timeDay": 925,
-    "timeWeek": 1116,
-    "timeMonth": 1010,
+    "time": 1125,
+    "timeDay": 1115,
+    "timeWeek": 1140,
+    "timeMonth": 1019,
     "timeYear": 1084,
     "dailyMinutesDown": {
-      "2024-02-09": 0
+      "2024-02-09": 8
     }
   },
   {
