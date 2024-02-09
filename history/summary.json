@@ -50,9 +50,9 @@
     "url": "https://lhcb.web.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lhcb.web.cern.ch.ico",
     "slug": "lh-cb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 1116,
     "timeMonth": 1010,
     "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-09": 0
+    }
   },
   {
     "name": "Fermilab",
@@ -285,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.melashri.eu.org.ico",
     "slug": "archive",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
