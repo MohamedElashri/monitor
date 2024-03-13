@@ -32,18 +32,20 @@
     "url": "https://home.cern",
     "icon": "https://icons.duckduckgo.com/ip3/home.cern.ico",
     "slug": "cern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1409,
-    "timeDay": 1111,
-    "timeWeek": 1366,
-    "timeMonth": 1322,
-    "timeYear": 1389,
-    "dailyMinutesDown": {}
+    "time": 1407,
+    "timeDay": 1044,
+    "timeWeek": 1354,
+    "timeMonth": 1311,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   },
   {
     "name": "LHCb",
