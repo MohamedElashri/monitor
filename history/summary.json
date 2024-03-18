@@ -124,9 +124,7 @@
     "timeWeek": 112,
     "timeMonth": 111,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2023-03-19": 1224
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snibox",
@@ -204,9 +202,9 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1233,
     "timeDay": 591,
@@ -214,7 +212,6 @@
     "timeMonth": 699,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2024-03-17": 9,
       "2024-02-07": 17,
       "2024-01-26": 489,
       "2024-01-25": 201,
