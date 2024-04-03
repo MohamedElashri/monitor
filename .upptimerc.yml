@@ -15,8 +15,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Mohamed Elashri
     url: https://melashri.net
-  - name: Snibox
-    url: https://snip.elashri.xyz
   - name: Adguard Home
     url: https://adguard.elashri.xyz
   - name: Nextcloud
