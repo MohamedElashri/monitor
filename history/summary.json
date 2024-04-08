@@ -32,19 +32,19 @@
     "url": "https://home.cern",
     "icon": "https://icons.duckduckgo.com/ip3/home.cern.ico",
     "slug": "cern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1390,
-    "timeDay": 1071,
-    "timeWeek": 1314,
-    "timeMonth": 1299,
-    "timeYear": 1362,
+    "time": 1389,
+    "timeDay": 992,
+    "timeWeek": 1263,
+    "timeMonth": 1284,
+    "timeYear": 1360,
     "dailyMinutesDown": {
-      "2024-04-08": 11
+      "2024-04-08": 0
     }
   },
   {
