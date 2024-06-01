@@ -11,11 +11,9 @@ sites:
     url: https://lhcb.web.cern.ch
   - name: Fermilab
     url: https://www.fnal.gov
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Mohamed Elashri
     url: https://melashri.net
-  - name: Adguard Home
+  - name: Adguard Home Micro
     url: https://adguard.elashri.xyz
   - name: Nextcloud
     url: https://nextcloud.elashri.xyz
@@ -23,10 +21,8 @@ sites:
     url: https://blog.melashri.net
   - name: ChangeLog
     url: https://change.elashri.xyz
-  - name: Archive
-    url: https://archive.melashri.eu.org
-  - name: SearxNG
-    url: https://searx.melashri.me
+  - name: DNS Resolver
+    url: https://dns.melashri.eu.org
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
