@@ -107,9 +107,9 @@
     "url": "https://adguard.elashri.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home-micro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +118,9 @@
     "timeWeek": 309,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-16": 0
+    }
   },
   {
     "name": "Nextcloud",
@@ -135,7 +137,7 @@
     "timeDay": 1025,
     "timeWeek": 726,
     "timeMonth": 766,
-    "timeYear": 1071,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2024-02-07": 17,
       "2024-01-26": 489,
