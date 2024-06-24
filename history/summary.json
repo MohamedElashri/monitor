@@ -32,18 +32,20 @@
     "url": "https://home.cern",
     "icon": "https://icons.duckduckgo.com/ip3/home.cern.ico",
     "slug": "cern",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1367,
-    "timeDay": 1098,
-    "timeWeek": 1070,
-    "timeMonth": 1199,
-    "timeYear": 1342,
-    "dailyMinutesDown": {}
+    "timeDay": 1705,
+    "timeWeek": 1225,
+    "timeMonth": 1234,
+    "timeYear": 1344,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   },
   {
     "name": "LHCb",
@@ -157,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.melashri.net.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
