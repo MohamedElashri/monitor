@@ -1,7 +1,7 @@
 url: https://home.cern
-status: down
-code: 500
-responseTime: 2312
-lastUpdated: 2024-06-24T09:21:46.929Z
+status: up
+code: 200
+responseTime: 1393
+lastUpdated: 2024-06-24T09:31:06.110Z
 startTime: 2022-03-02T03:49:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
