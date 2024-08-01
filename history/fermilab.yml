@@ -1,7 +1,7 @@
 url: https://www.fnal.gov
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-01T19:35:39.913Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2024-08-01T22:19:49.820Z
 startTime: 2021-12-07T23:04:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
