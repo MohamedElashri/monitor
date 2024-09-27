@@ -13,8 +13,6 @@ sites:
     url: https://melashri.net
   - name: Adguard Home
     url: https://adguard.elashri.xyz
-  - name: FreshRSS
-    url: https://rss.elashri.net
   - name: My blog
     url: https://blog.melashri.net
   - name: DNS Resolver
