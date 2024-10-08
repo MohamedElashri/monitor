@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "14.75%",
+    "uptime": "14.76%",
     "uptimeDay": "48.07%",
     "uptimeWeek": "92.58%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "66.12%",
+    "uptimeYear": "66.13%",
     "time": 448,
     "timeDay": 743,
     "timeWeek": 279,
@@ -111,8 +111,7 @@
       "2023-10-13": 87,
       "2023-10-12": 66,
       "2023-10-11": 73,
-      "2023-10-10": 18,
-      "2023-10-09": 18
+      "2023-10-10": 18
     }
   },
   {
