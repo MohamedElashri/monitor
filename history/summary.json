@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1313,
-    "timeDay": 1705,
-    "timeWeek": 1156,
-    "timeMonth": 1241,
-    "timeYear": 1306,
+    "timeDay": 917,
+    "timeWeek": 1126,
+    "timeMonth": 1236,
+    "timeYear": 1305,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1059,
-    "timeDay": 1398,
-    "timeWeek": 997,
-    "timeMonth": 1084,
-    "timeYear": 1055,
+    "timeDay": 883,
+    "timeWeek": 970,
+    "timeMonth": 1085,
+    "timeYear": 1054,
     "dailyMinutesDown": {}
   },
   {
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 386,
-    "timeDay": 350,
-    "timeWeek": 172,
-    "timeMonth": 218,
+    "time": 385,
+    "timeDay": 173,
+    "timeWeek": 184,
+    "timeMonth": 221,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-08-01": 164,
@@ -68,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 186,
-    "timeWeek": 126,
+    "timeDay": 113,
+    "timeWeek": 125,
     "timeMonth": 136,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -80,15 +80,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "14.76%",
-    "uptimeDay": "48.07%",
+    "uptime": "18.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.58%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "66.13%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "67.70%",
     "time": 448,
-    "timeDay": 743,
-    "timeWeek": 279,
-    "timeMonth": 501,
+    "timeDay": 170,
+    "timeWeek": 282,
+    "timeMonth": 488,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2024-10-07": 748,
@@ -110,8 +110,7 @@
       "2023-10-14": 107,
       "2023-10-13": 87,
       "2023-10-12": 66,
-      "2023-10-11": 73,
-      "2023-10-10": 18
+      "2023-10-11": 73
     }
   },
   {
@@ -126,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 197,
-    "timeWeek": 137,
-    "timeMonth": 151,
+    "timeDay": 139,
+    "timeWeek": 134,
+    "timeMonth": 152,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 461,
-    "timeWeek": 410,
-    "timeMonth": 433,
-    "timeYear": 574,
+    "time": 609,
+    "timeDay": 5224,
+    "timeWeek": 1090,
+    "timeMonth": 575,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   }
 ]
