@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "59.78%",
+    "uptime": "60.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.29%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.16%",
     "time": 465,
     "timeDay": 316,
     "timeWeek": 169,
@@ -122,17 +122,19 @@
     "url": "https://dns.melashri.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/dns.melashri.eu.org.ico",
     "slug": "dns-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 777,
-    "timeWeek": 1144,
-    "timeMonth": 918,
-    "timeYear": 649,
-    "dailyMinutesDown": {}
+    "time": 647,
+    "timeDay": 561,
+    "timeWeek": 1044,
+    "timeMonth": 900,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   }
 ]
