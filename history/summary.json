@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "69.02%",
+    "uptime": "69.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.64%",
+    "uptimeYear": "94.71%",
     "time": 444,
     "timeDay": 66,
     "timeWeek": 79,
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.melashri.net.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "97.25%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -122,9 +122,9 @@
     "url": "https://dns.melashri.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/dns.melashri.eu.org.ico",
     "slug": "dns-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,6 +133,8 @@
     "timeWeek": 1105,
     "timeMonth": 1080,
     "timeYear": 696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   }
 ]
