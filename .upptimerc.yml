@@ -15,8 +15,8 @@ sites:
     url: https://adguard.elashri.xyz
   - name: My blog
     url: https://blog.melashri.net
-  - name: DNS Resolver
-    url: https://dns.melashri.eu.org
+  - name: Status Page
+    url: https://status.melashri.net
 assignees: # Users to assign downtime issues (optional)
    - MohamedElashri
 
