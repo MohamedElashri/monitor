@@ -6,17 +6,17 @@
     "slug": "cern",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.90%",
     "time": 1304,
     "timeDay": 2448,
     "timeWeek": 1615,
     "timeMonth": 1385,
     "timeYear": 1274,
     "dailyMinutesDown": {
-      "2025-01-14": 30,
+      "2025-01-14": 21,
       "2024-12-23": 465,
       "2024-12-22": 63
     }
@@ -26,19 +26,19 @@
     "url": "https://lhcb.web.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lhcb.web.cern.ch.ico",
     "slug": "lh-cb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1081,
-    "timeDay": 957,
-    "timeWeek": 1003,
-    "timeMonth": 1113,
-    "timeYear": 1070,
+    "timeDay": 783,
+    "timeWeek": 953,
+    "timeMonth": 1098,
+    "timeYear": 1068,
     "dailyMinutesDown": {
-      "2025-01-14": 0
+      "2025-01-14": 9
     }
   },
   {
