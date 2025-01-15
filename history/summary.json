@@ -27,19 +27,19 @@
     "url": "https://lhcb.web.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lhcb.web.cern.ch.ico",
     "slug": "lh-cb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1081,
-    "timeDay": 783,
-    "timeWeek": 953,
-    "timeMonth": 1098,
+    "timeDay": 808,
+    "timeWeek": 943,
+    "timeMonth": 1091,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 31
     }
   },
   {
@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "85.28%",
+    "uptime": "85.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
