@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "89.01%",
+    "uptime": "89.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -134,17 +134,19 @@
     "url": "https://status.melashri.net",
     "icon": "https://icons.duckduckgo.com/ip3/status.melashri.net.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 526,
-    "timeWeek": 328,
-    "timeMonth": 329,
-    "timeYear": 314,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 354,
+    "timeWeek": 310,
+    "timeMonth": 325,
+    "timeYear": 312,
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
