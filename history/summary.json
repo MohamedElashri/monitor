@@ -14,7 +14,7 @@
     "timeDay": 979,
     "timeWeek": 1162,
     "timeMonth": 1307,
-    "timeYear": 1270,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-02-02": 449,
       "2025-02-01": 27,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adguard.elashri.xyz.ico",
     "slug": "adguard-home",
     "status": "up",
-    "uptime": "90.96%",
+    "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,7 +118,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.melashri.net.ico",
     "slug": "my-blog",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -135,9 +135,9 @@
     "url": "https://status.melashri.net",
     "icon": "https://icons.duckduckgo.com/ip3/status.melashri.net.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,6 +146,8 @@
     "timeWeek": 331,
     "timeMonth": 353,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   }
 ]
