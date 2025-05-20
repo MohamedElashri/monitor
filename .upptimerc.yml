@@ -11,8 +11,6 @@ sites:
     url: https://www.fnal.gov
   - name: Mohamed Elashri
     url: https://melashri.net
-  - name: Adguard Home
-    url: https://adguard.elashri.xyz
   - name: My blog
     url: https://blog.melashri.net
   - name: Status Page
