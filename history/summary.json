@@ -112,17 +112,19 @@
     "url": "https://status.melashri.net",
     "icon": "https://icons.duckduckgo.com/ip3/status.melashri.net.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 741,
-    "timeWeek": 497,
-    "timeMonth": 549,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 369,
+    "timeDay": 661,
+    "timeWeek": 506,
+    "timeMonth": 550,
+    "timeYear": 369,
+    "dailyMinutesDown": {
+      "2025-05-26": 0
+    }
   }
 ]
