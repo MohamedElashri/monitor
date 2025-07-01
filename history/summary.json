@@ -29,9 +29,9 @@
     "url": "https://lhcb.web.cern.ch",
     "icon": "https://icons.duckduckgo.com/ip3/lhcb.web.cern.ch.ico",
     "slug": "lh-cb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -41,6 +41,7 @@
     "timeMonth": 1071,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-04-11": 448,
       "2025-04-10": 504,
       "2025-01-15": 31
