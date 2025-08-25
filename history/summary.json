@@ -97,19 +97,19 @@
     "url": "https://blog.melashri.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.melashri.net.ico",
     "slug": "my-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 236,
-    "timeWeek": 201,
-    "timeMonth": 180,
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 155,
+    "timeDay": 255,
+    "timeWeek": 211,
+    "timeMonth": 183,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-08-25": 18
+      "2025-08-25": 28
     }
   },
   {
